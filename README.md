@@ -1,6 +1,8 @@
 # Athletes-Chain
 A simple mobile game for IOS and Android, in which you need to identify the next athlete, using the following:
-1. Your previous answer 2. The connection between the last athlete and the next one 3. Another hint.
+1. Your previous answer.
+2. The connection between the last athlete and the next one.
+3. Another hint.
 
 For now, there are 60 levels for the NBA mode, and 50 for the Soccer one (Tennis and Track&Field should follow soon).
 
